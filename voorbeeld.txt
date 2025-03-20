@@ -1,0 +1,4 @@
+hello world 
+lijntje tekst 
+nog een lijntje tekst 
+we zijn git aan het leren gebruiken in de les DW1 
